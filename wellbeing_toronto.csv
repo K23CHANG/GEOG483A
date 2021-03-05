@@ -1,141 +1,141 @@
-Neighbourhood,Neighbourhood Id,Low Income Families
-West Humber-Clairville,1,3790
-Mount Olive-Silverstone-Jamestown,2,5010
-Thistletown-Beaumond Heights,3,1080
-Rexdale-Kipling,4,1110
-Elms-Old Rexdale,5,1190
-Kingsview Village-The Westway,6,2800
-Willowridge-Martingrove-Richview,7,1610
-Humber Heights-Westmount,8,820
-Edenbridge-Humber Valley,9,900
-Princess-Rosethorn,10,460
-Eringate-Centennial-West Deane,11,1060
-Markland Wood,12,510
-Etobicoke West Mall,13,980
-Islington-City Centre West,14,6140
-Kingsway South,15,260
-Stonegate-Queensway,16,1740
-Mimico,17,2720
-New Toronto,18,1430
-Long Branch,19,940
-Alderwood,20,640
-Humber Summit,21,1570
-Humbermede,22,1860
-Pelmo Park-Humberlea,23,710
-Black Creek,24,3680
-Glenfield-Jane Heights,25,4420
-Downsview-Roding-CFB,26,4060
-York University Heights,27,4490
-Rustic,28,1340
-Maple Leaf,29,880
-Brookhaven-Amesbury,30,2320
-Yorkdale-Glen Park,31,1470
-Englemount-Lawrence,32,2470
-Clanton Park,33,1410
-Bathurst Manor,34,1440
-Westminster-Branson,35,3500
-Newtonbrook West,36,3480
-Willowdale West,37,1670
-Lansing-Westgate,38,7560
-Bedford Park-Nortown,39,1340
-St.Andrew-Windfields,40,1590
-Bridle Path-Sunnybrook-York Mills,41,460
-Banbury-Don Mills,42,2000
-Victoria Village,43,2040
-Flemingdon Park,44,3290
-Parkwoods-Donalda,45,3370
-Pleasant View,46,1730
-Don Valley Village,47,3430
-Hillcrest Village,48,2180
-Bayview Woods-Steeles,49,1420
-Newtonbrook East,50,2380
-Willowdale East,51,6260
-Bayview Village,52,2090
-Henry Farm,53,2060
-O'Connor-Parkview,54,2000
-Thorncliffe Park,55,3030
-Leaside-Bennington,56,590
-Broadview North,57,1250
-Old East York,58,630
-Danforth-East York,59,1250
-Woodbine-Lumsden,60,660
-Taylor-Massey,61,2350
-East End-Danforth,62,2030
-The Beaches,63,1150
-Woodbine Corridor,64,1060
-Greenwood-Coxwell,65,1610
-Danforth,66,840
-Playter Estates-Danforth,67,570
-North Riverdale,68,870
-Blake-Jones,69,990
-South Riverdale,70,3060
-Cabbagetown-South St.James Town,71,1390
-Regent Park,72,2360
-Moss Park,73,3540
-North St.James Town,74,3450
-Church-Yonge Corridor,75,3860
-Bay Street Corridor,76,10050
-Waterfront Communities-The Island,77,4480
-Kensington-Chinatown,78,3690
-University,79,1180
-Palmerston-Little Italy,80,1280
-Trinity-Bellwoods,81,1990
-Niagara,82,1730
-Dufferin Grove,83,1310
-Little Portugal,84,1300
-South Parkdale,85,3640
-Roncesvalles,86,1680
-High Park-Swansea,87,1350
-High Park North,88,1810
-Runnymede-Bloor West Village,89,410
-Junction Area,90,1350
-Weston-Pellam Park,91,1530
-Corso Italia-Davenport,92,1210
-Dovercourt-Wallace Emerson-Juncti,93,3860
-Wychwood,94,1220
-Annex,95,3110
-Casa Loma,96,630
-Yonge-St.Clair,97,680
-Rosedale-Moore Park,98,1120
-Mount Pleasant East,99,760
-Yonge-Eglinton,100,770
-Forest Hill South,101,550
-Forest Hill North,102,1020
-Lawrence Park South,103,580
-Mount Pleasant West,104,3220
-Lawrence Park North,105,590
-Humewood-Cedarvale,106,1190
-Oakwood Village,107,2280
-Briar Hill-Belgravia,108,1670
-Caledonia-Fairbank,109,930
-Keelesdale-Eglinton West,110,1080
-Rockcliffe-Smythe,111,2640
-Beechborough-Greenbrook,112,950
-Weston,113,2650
-Lambton Baby Point,114,690
-Mount Dennis,115,1930
-Steeles,116,3520
-L'Amoreaux,117,5840
-Tam O'Shanter-Sullivan,118,3100
-Wexford/Maryvale,119,2670
-Clairlea-Birchmount,120,2680
-Oakridge,121,2570
-Birchcliffe-Cliffside,122,1790
-Cliffcrest,123,1290
-Kennedy Park,124,2450
-Ionview,125,1690
-Dorset Park,126,3010
-Bendale,127,3170
-Agincourt South-Malvern West,128,3110
-Agincourt North,129,3980
-Milliken,130,3960
-Rouge,131,3760
-Malvern,132,5170
-Centennial Scarborough,133,690
-Highland Creek,134,1110
-Morningside,135,2140
-West Hill,136,3710
-Woburn,137,6860
-Eglinton East,138,2930
-Scarborough Village,139,2400
-Guildwood,140,440
+Neighbourhood,Neighbourhood Id,Low Income Families,Low Income Families P,Total
+West Humber-Clairville,1,3790,1.24%,305850
+Mount Olive-Silverstone-Jamestown,2,5010,1.64%,
+Thistletown-Beaumond Heights,3,1080,0.35%,
+Rexdale-Kipling,4,1110,0.36%,
+Elms-Old Rexdale,5,1190,0.39%,
+Kingsview Village-The Westway,6,2800,0.92%,
+Willowridge-Martingrove-Richview,7,1610,0.53%,
+Humber Heights-Westmount,8,820,0.27%,
+Edenbridge-Humber Valley,9,900,0.29%,
+Princess-Rosethorn,10,460,0.15%,
+Eringate-Centennial-West Deane,11,1060,0.35%,
+Markland Wood,12,510,0.17%,
+Etobicoke West Mall,13,980,0.32%,
+Islington-City Centre West,14,6140,2.01%,
+Kingsway South,15,260,0.09%,
+Stonegate-Queensway,16,1740,0.57%,
+Mimico,17,2720,0.89%,
+New Toronto,18,1430,0.47%,
+Long Branch,19,940,0.31%,
+Alderwood,20,640,0.21%,
+Humber Summit,21,1570,0.51%,
+Humbermede,22,1860,0.61%,
+Pelmo Park-Humberlea,23,710,0.23%,
+Black Creek,24,3680,1.20%,
+Glenfield-Jane Heights,25,4420,1.45%,
+Downsview-Roding-CFB,26,4060,1.33%,
+York University Heights,27,4490,1.47%,
+Rustic,28,1340,0.44%,
+Maple Leaf,29,880,0.29%,
+Brookhaven-Amesbury,30,2320,0.76%,
+Yorkdale-Glen Park,31,1470,0.48%,
+Englemount-Lawrence,32,2470,0.81%,
+Clanton Park,33,1410,0.46%,
+Bathurst Manor,34,1440,0.47%,
+Westminster-Branson,35,3500,1.14%,
+Newtonbrook West,36,3480,1.14%,
+Willowdale West,37,1670,0.55%,
+Lansing-Westgate,38,7560,2.47%,
+Bedford Park-Nortown,39,1340,0.44%,
+St.Andrew-Windfields,40,1590,0.52%,
+Bridle Path-Sunnybrook-York Mills,41,460,0.15%,
+Banbury-Don Mills,42,2000,0.65%,
+Victoria Village,43,2040,0.67%,
+Flemingdon Park,44,3290,1.08%,
+Parkwoods-Donalda,45,3370,1.10%,
+Pleasant View,46,1730,0.57%,
+Don Valley Village,47,3430,1.12%,
+Hillcrest Village,48,2180,0.71%,
+Bayview Woods-Steeles,49,1420,0.46%,
+Newtonbrook East,50,2380,0.78%,
+Willowdale East,51,6260,2.05%,
+Bayview Village,52,2090,0.68%,
+Henry Farm,53,2060,0.67%,
+O'Connor-Parkview,54,2000,0.65%,
+Thorncliffe Park,55,3030,0.99%,
+Leaside-Bennington,56,590,0.19%,
+Broadview North,57,1250,0.41%,
+Old East York,58,630,0.21%,
+Danforth-East York,59,1250,0.41%,
+Woodbine-Lumsden,60,660,0.22%,
+Taylor-Massey,61,2350,0.77%,
+East End-Danforth,62,2030,0.66%,
+The Beaches,63,1150,0.38%,
+Woodbine Corridor,64,1060,0.35%,
+Greenwood-Coxwell,65,1610,0.53%,
+Danforth,66,840,0.27%,
+Playter Estates-Danforth,67,570,0.19%,
+North Riverdale,68,870,0.28%,
+Blake-Jones,69,990,0.32%,
+South Riverdale,70,3060,1.00%,
+Cabbagetown-South St.James Town,71,1390,0.45%,
+Regent Park,72,2360,0.77%,
+Moss Park,73,3540,1.16%,
+North St.James Town,74,3450,1.13%,
+Church-Yonge Corridor,75,3860,1.26%,
+Bay Street Corridor,76,10050,3.29%,
+Waterfront Communities-The Island,77,4480,1.46%,
+Kensington-Chinatown,78,3690,1.21%,
+University,79,1180,0.39%,
+Palmerston-Little Italy,80,1280,0.42%,
+Trinity-Bellwoods,81,1990,0.65%,
+Niagara,82,1730,0.57%,
+Dufferin Grove,83,1310,0.43%,
+Little Portugal,84,1300,0.43%,
+South Parkdale,85,3640,1.19%,
+Roncesvalles,86,1680,0.55%,
+High Park-Swansea,87,1350,0.44%,
+High Park North,88,1810,0.59%,
+Runnymede-Bloor West Village,89,410,0.13%,
+Junction Area,90,1350,0.44%,
+Weston-Pellam Park,91,1530,0.50%,
+Corso Italia-Davenport,92,1210,0.40%,
+Dovercourt-Wallace Emerson-Juncti,93,3860,1.26%,
+Wychwood,94,1220,0.40%,
+Annex,95,3110,1.02%,
+Casa Loma,96,630,0.21%,
+Yonge-St.Clair,97,680,0.22%,
+Rosedale-Moore Park,98,1120,0.37%,
+Mount Pleasant East,99,760,0.25%,
+Yonge-Eglinton,100,770,0.25%,
+Forest Hill South,101,550,0.18%,
+Forest Hill North,102,1020,0.33%,
+Lawrence Park South,103,580,0.19%,
+Mount Pleasant West,104,3220,1.05%,
+Lawrence Park North,105,590,0.19%,
+Humewood-Cedarvale,106,1190,0.39%,
+Oakwood Village,107,2280,0.75%,
+Briar Hill-Belgravia,108,1670,0.55%,
+Caledonia-Fairbank,109,930,0.30%,
+Keelesdale-Eglinton West,110,1080,0.35%,
+Rockcliffe-Smythe,111,2640,0.86%,
+Beechborough-Greenbrook,112,950,0.31%,
+Weston,113,2650,0.87%,
+Lambton Baby Point,114,690,0.23%,
+Mount Dennis,115,1930,0.63%,
+Steeles,116,3520,1.15%,
+L'Amoreaux,117,5840,1.91%,
+Tam O'Shanter-Sullivan,118,3100,1.01%,
+Wexford/Maryvale,119,2670,0.87%,
+Clairlea-Birchmount,120,2680,0.88%,
+Oakridge,121,2570,0.84%,
+Birchcliffe-Cliffside,122,1790,0.59%,
+Cliffcrest,123,1290,0.42%,
+Kennedy Park,124,2450,0.80%,
+Ionview,125,1690,0.55%,
+Dorset Park,126,3010,0.98%,
+Bendale,127,3170,1.04%,
+Agincourt South-Malvern West,128,3110,1.02%,
+Agincourt North,129,3980,1.30%,
+Milliken,130,3960,1.29%,
+Rouge,131,3760,1.23%,
+Malvern,132,5170,1.69%,
+Centennial Scarborough,133,690,0.23%,
+Highland Creek,134,1110,0.36%,
+Morningside,135,2140,0.70%,
+West Hill,136,3710,1.21%,
+Woburn,137,6860,2.24%,
+Eglinton East,138,2930,0.96%,
+Scarborough Village,139,2400,0.78%,
+Guildwood,140,440,0.14%,
